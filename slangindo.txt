@@ -1,5 +1,3 @@
-
-
 &	dan
 /	atau
 @	di
@@ -29,7 +27,7 @@ ahokncc	ahok
 aing	saya
 aj	saja
 aja	saja
-ajep-ajep	dunia gemerlap
+ajepajep	dunia gemerlap
 ajj	saja
 ak	aku
 ak	saya
@@ -184,7 +182,7 @@ bimbuluh	bimbingan dan penyuluhan
 bingit	banget
 bingo	banget
 bintal	bimbingan mental
-bisi	kalau-kalau
+bisi	kalau kalau
 bkl	akan
 bklan	bakalan
 bkn	bukan
@@ -225,11 +223,11 @@ bre	saudara laki-laki
 brg	bareng
 brjaya	berjaya
 brngkt	berangkat
-bro	saudara laki-laki
+bro	saudara laki
 brp	berapa
 bru	baru
-bruh	saudara laki-laki
-brur	saudara laki-laki
+bruh	saudara laki
+brur	saudara laki
 bs	bisa
 bsa	bisa
 bsen	bosan
@@ -262,7 +260,7 @@ cadas	keren
 caem	cakep
 cagub	calon gubernur
 calo	makelar
-cama-cama	sama-sama
+cama cama	sama sama
 can	belum
 cangcut	celana dalam
 capcus	pergi
@@ -382,10 +380,10 @@ disono	di sana
 diuber	dikejar
 dket	dekat
 dkit	sedikit
-dkk	dan kawan-kawan
+dkk	dan kawan kawan
 dkt	dekat
 dl	dulu
-dll	dan lain-lain
+dll	dan lain lain
 dlm	dalam
 dlu	dulu
 dlu	dulu
@@ -476,7 +474,7 @@ gag	tidak
 gahar	sangar
 gaje	tidak jelas
 gajebo	tidak jelas
-gak papa	tidak apa-apa
+gak papa	tidak apa apa
 gak	tidak
 gak	tidak
 galau	bimbang
@@ -484,7 +482,7 @@ gamau	tidak mau
 gan	juragan
 gantengbs	ganteng
 gantengsaya	ganteng
-gapapa	tidak apa-apa
+gapapa	tidak apa apa
 gaptek	gagap teknologi
 garing	hambar
 gatau	tidak tahu
@@ -536,7 +534,7 @@ governor	gubernur
 gowes	mengayuh sepeda
 gpl	tidak pakai lama
 gpny	tidak punya
-gpp	tidak apa-apa
+gpp	tidak apa apa
 gr	gede rasa
 grammar	tata bahasa
 gretong	gratis
@@ -556,6 +554,9 @@ ha	tertawa
 hacep	seru
 haghaghag	tertawa
 haha	tertawa
+hahaha	tertawa
+hhh	tertawa
+hhhh	tertawa
 hakhak	tertawa
 hallo	halo
 hallow	halo
@@ -834,7 +835,7 @@ lavv	cinta
 lbur	libur
 lebeh	berlebihan
 leh	boleh
-lekong	laki-laki
+lekong	laki
 lelet	lambat
 lemot	lambat
 less	kurang
@@ -991,7 +992,7 @@ msh	masih
 msk	masuk
 mskpn	meskipun
 mslh	masalah
-msng2	masing-masing
+msng2	masing masing
 mt	makan teman
 muahal	mahal
 muantap	bagus
@@ -1103,7 +1104,7 @@ ngocol	lucu
 ngomong	bicara
 ngomongin	membicarakan
 ngotot	keras kepala
-ngubek2	mencari-cari
+ngubek2	mencari cari
 ngumpet	sembunyi
 ngumpul	berkumpul
 ngurus	mengurus
@@ -1169,7 +1170,7 @@ or	atau
 ora tidak
 orange	oranye
 org	orang
-org2	orang-orang
+org2	orang orang
 orkes	olahraga dan kesehatan
 ortu	orang tua
 ospek	orientasi studi dan pengenalan kampus
@@ -1371,7 +1372,7 @@ semau	asal
 sembako	sembilan bahan pokok
 sempak	celana dalam
 sempet	sempat
-sempet2nya	sempat-sempatnya
+sempet2nya	sempat sempatnya
 sendratari	seni drama tari
 sengeni	dimarahi
 sept	september
@@ -1443,9 +1444,9 @@ somse	sombong sekali
 songong	sombong
 sorry	maaf
 sory	maaf
-sosbud	sosial-budaya
-sosek	sosial-ekonomi
-sospol	sosial-politik
+sosbud	sosial budaya
+sosek	sosial ekonomi
+sospol	sosial politik
 sotoy	sok tahu
 sowry	maaf
 spa	siapa
@@ -1501,7 +1502,7 @@ telkom	telekomunikasi
 telmi	telat berpikir
 telp	telepon
 temen	teman
-temen2	teman-teman
+temen2	teman teman
 tengil	menyebalkan
 tengok	menjenguk
 tengsin	malu
@@ -1534,8 +1535,8 @@ tls	tulis
 tman	teman
 tmbah	tambah
 tmbh	tambah
-tmen2	teman-teman
-tmn2	teman-teman
+tmen2	teman teman
+tmn2	teman teman
 tmpah	tumpah
 tmph	tumpah
 tmpt	tempat
@@ -1652,7 +1653,7 @@ wkt	waktu
 wkwk	tertawa
 wkwkkw	tertawa
 woles	santai
-wtf	apa-apaan
+wtf	apa apaan
 wtf	what the fuck
 wth	what the hell
 wuih	wah
