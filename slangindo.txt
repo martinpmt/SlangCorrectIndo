@@ -125,7 +125,7 @@ bapuk	rusak
 basbang	basi
 bathin	batin
 bawaslu	badan pengawas pemilihan umum
-bazis	badan amal, zakat, infak, dan sedekah
+basis	badan amal zakat infak dan sedekah
 bcanda	bercanda
 bcoz	karena
 bcr	bicara
@@ -212,9 +212,9 @@ bonyok	ayah ibu
 boyeh	boleh
 bpk	bapak
 br	baru
-bray	saudara laki-laki
+bray	saudara laki 
 brb	segera kembali
-bre	saudara laki-laki
+bre	saudara laki 
 brg	bareng
 brjaya	berjaya
 brngkt	berangkat
@@ -867,7 +867,7 @@ lowh	kamu
 lp	lupa
 lsg	langsung
 lu	kamu
-luber	langsung, umum, bebas, dan rahasia
+luber	langsung umum bebas dan rahasia
 luchu	lucu
 luchuw	lucu
 luff	cinta
@@ -1028,9 +1028,9 @@ naon	apa
 napa	kenapa
 napi	narapidana
 napol	narapidana politik
-napza	narkotika, alkohol, psikotropika, dan zat adiktif 
+napza	narkotika alcohol psikotropika zat adiktif 
 naq	anak
-narkoba	narkotika, psikotropika, dan obat terlarang
+narkoba	narkotika psikotropika obat terlarang
 narsis	bangga pada diri sendiri
 nasgor	nasi goreng
 nax	anak
@@ -1657,7 +1657,6 @@ wuuih	wah
 x	kali
 xixixi	tertawa
 y	kenapa
-y	ya
 y	ya
 ya	iya
 yad	yang akan datang
